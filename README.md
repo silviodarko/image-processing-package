@@ -1,27 +1,26 @@
-# package_name
+# image-processing-package
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Descrição.
+O pacote `image-processing-package` é usado para:
+- 
+-
 
-## Installation
+## Instalação
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar `image-processing-package`.
 
 ```bash
-pip install package_name
-```
+pip install image-processing-package
 
-## Usage
+## Uso
 
-```python
-from package_name.module1_name import file1_name
+from image_processing_package.module1_name import file1_name
+
 file1_name.my_function()
-```
 
-## Author
-My_name
+##Autor
+silviodarko
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+##Licença
+MIT
+
