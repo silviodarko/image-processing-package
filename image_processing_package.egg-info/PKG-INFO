@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: image-processing-package
+Version: 1.0.0
+Summary: Um pacote para processamento de imagens
+Home-page: https://github.com/silviodarko/image-processing-package
+Author: silviodarko
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# image-processing-package
+
+Descrição.
+
+O pacote `image-processing-package` é usado para:
+	- Histrogram matching
+	- Sructural similatity
+	- Resize image
+Utils:
+	- Read image
+	- Save image
+	- Plot image
+	- Plot result
+	- Plot histogram
+
+## Instalação
+
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar `image-processing-package`.
+
+```bash
+pip install image-processing-package
+
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um Pull Request com correções, melhorias ou novas funcionalidades.
+ 
+Licença
+Este pacote é licenciado sob a Licença MIT.
